@@ -1,6 +1,6 @@
 # egoist10
 
-👋 Hi, I'm Mohamed Saifudeen – currently learning and building skills in cybersecurity.  
+👋 Hi, I'm a Guy also goes by egoist10 in tryhackme – currently learning and building skills in cybersecurity.  
 This GitHub documents my progress, notes, tools, and walkthroughs as I work through platforms like TryHackMe, real-world labs, and projects.
 
 ---
