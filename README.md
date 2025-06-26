@@ -34,9 +34,9 @@ This GitHub documents my progress, notes, tools, and walkthroughs as I work thro
 
 ## 📫 Contact
 
-- GitHub: [egoist10](https://github.com/egoist10)  
-- Email: youremail@example.com  
-- YouTube (if active): [Link]
+- GitHub: [RogueHawk10](https://github.com/RogueHawk10)  
+- Email: bandofthehawk456@gmail.com.com  
+]
 
 ---
 
